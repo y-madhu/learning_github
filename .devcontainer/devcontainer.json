@@ -5,5 +5,5 @@
           "version":"3.6"
     }
   },
-  "postCreateCommand": "pip install -r requirements.txt"
+  "postCreateCommand": ["pip install pandas ","pip install matplotlib","pip install numpy"],
 }
