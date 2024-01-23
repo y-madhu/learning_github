@@ -5,5 +5,5 @@
           "version":"3.12.0"
     }
   },
-  "postCreateCommand": "pip install -r requirements.txt"
+  "postCreateCommand": "pip3 install --user -r requirements.txt"
 }
